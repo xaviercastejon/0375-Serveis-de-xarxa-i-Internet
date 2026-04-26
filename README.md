@@ -5,6 +5,8 @@ Benvingut/da al meu repositori on guardo totes les activitats pràctiques del m�
 ### 🌐 Serveis de Xarxa i internet
 * **[RA1-RA2 Serveis de DNS i DHCP](./RA1-RA2%20Serveis%20DNS%20i%20DHCP/)**
     * [📁 Activitats pràctiques](./RA1-RA2%20Serveis%20DNS%20i%20DHCP/)
+* **[RA3 Servei Web](./RA3%20Servei%20Web/)**
+    * [📁 Activitats pràctiques](./RA3%20Servei%20Web/)
 
 ---
 ## 🛠️ Eines utilitzades
