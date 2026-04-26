@@ -1,0 +1,13 @@
+# 📚 Repositori d'Activitats
+
+Benvingut/da al meu repositori on guardo totes les activitats pràctiques del mòdul 0375 Serveis de xarxa i internet.
+
+### 🌐 Serveis de Xarxa i internet
+* **[RA1-RA2 Serveis de DNS i DHCP](./RA1-RA2%20Serveis%20DNS%20i%20DHCP/)**
+    * [📁 Activitats pràctiques](./RA1-RA2%20Serveis%20DNS%20i%20DHCP/)
+
+---
+## 🛠️ Eines utilitzades
+* **Sistemes:** Windows Server / Linux Ubuntu Server
+* **Desplegament escriptoris remots: ** ISARDVDI
+* **Documentació:** PDF i Markdown
