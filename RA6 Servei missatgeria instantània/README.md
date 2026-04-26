@@ -5,7 +5,7 @@ Aquesta activitat es realitzarà en grups de 2 alumnes i es corregirà a classe 
 
 Per realitzar aquesta pràctica necessiteu fer servir 2 màquines virtuals que seran proporcionades en l’entorn d’ISARDVDI:
 - Ubuntu Server amb els serveis de:
-- Servidor DNS Master amb la zona directa del domini grupX.itb.cat i
-- Servidor Web NGINX
+  - Servidor DNS Master amb la zona directa del domini grupX.itb.cat i
+  - Servidor Web NGINX
 - Client Ubuntu Desktop (anomenat grupXubuntu) per la verificació de la implementació del servidor de missatgeria instantània
-- 
+  
