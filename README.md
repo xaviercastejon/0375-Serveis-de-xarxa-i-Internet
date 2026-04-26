@@ -17,5 +17,5 @@ Benvingut/da al meu repositori on guardo totes les activitats pràctiques del m�
 ---
 ## 🛠️ Eines utilitzades
 * **Sistemes:** Windows Server / Linux Ubuntu Server
-* **Desplegament escriptoris remots: ** ISARDVDI
+* **Desplegament escriptoris remots:** ISARDVDI
 * **Documentació:** PDF i Markdown
